@@ -1,0 +1,5 @@
+{
+  "name": "lingbopro Vanilla Essentials",
+  "version": "0.1.0-pre1",
+  "overrides": ["config"]
+}

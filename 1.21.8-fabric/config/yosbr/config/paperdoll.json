@@ -1,0 +1,16 @@
+{
+  "dollEnabled": true,
+  "location": "BOTTOM_RIGHT",
+  "dollXOffset": 60,
+  "dollYOffset": -91,
+  "dollSize": 40,
+  "dollLookingSides": -20,
+  "dollLookingUpDown": -20,
+  "dollHeadMode": "STATIC",
+  "lockElytra": true,
+  "lockSpinning": true,
+  "autoHide": false,
+  "autoHideBlacklist": [],
+  "hideInF5": true,
+  "hideVehicle": false
+}

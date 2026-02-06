@@ -1,0 +1,22 @@
+{
+  "disabledIntegrations": [
+    "citresewn",
+    "continuity",
+    "entity_texture_features",
+    "iris",
+    "lambdynlights",
+    "entity_model_features"
+  ],
+  "enablePuzzleButton": false,
+  "resourcepackSplashScreen": true,
+  "unlimitedRotations": true,
+  "biggerModels": true,
+  "debugMessages": false,
+  "hasCustomSplashScreen": true,
+  "backgroundColor": -9139012,
+  "progressBarColor": -1,
+  "progressBarBackgroundColor": -9139012,
+  "progressFrameColor": -1,
+  "disableBlend": false,
+  "customBlendFunction": []
+}
