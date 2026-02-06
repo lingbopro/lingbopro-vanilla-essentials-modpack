@@ -52,10 +52,9 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","file/Mod Menu Helper.zip","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","itemswapper:default","continuity:glass_pane_culling_fix","continuity:default","file/§cCozyUI§b+ §7v1.10 §0.zip"]
+resourcePacks:["vanilla","fabric","file/Mod Menu Helper.zip","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","itemswapper:default","continuity:glass_pane_culling_fix","continuity:default"]
 incompatibleResourcePacks:["itemswapper:default"]
 lastServer:
-lang:zh_cn
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
