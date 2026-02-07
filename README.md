@@ -6,11 +6,11 @@ The modpack is originally created for myself, but of course you can try it out �
 
 ## Key Features
 
-● Common utility mods
+**● Common utility mods**  
 This modpack contains some common utility mods, such as [Tweakeroo](https://modrinth.com/mod/tweakeroo), [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap), and much more!
 
-● Optimized for performance
-THis modpack is based on [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), which means all the optimization mods in that modpack are available here.
+**● Optimized for performance**  
+This modpack is based on [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), which means all the optimization mods in that modpack are available here.
 
 ## Usage
 
