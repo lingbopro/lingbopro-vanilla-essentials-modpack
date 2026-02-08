@@ -12,7 +12,7 @@
   "emissiveRenderMode": "DULL",
   "alwaysCheckVanillaEmissiveSuffix": true,
   "enableArmorAndTrims": true,
-  "skinFeaturesEnabled": false,
+  "skinFeaturesEnabled": true,
   "skinTransparencyMode": "ETF_SKINS_ONLY",
   "skinTransparencyInExtraPixels": true,
   "skinFeaturesEnableTransparency": false,
