@@ -457,6 +457,45 @@
             ]
         },
         {
+            "pakku_id": "FaE2HO76bqfqtEtb",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "bobby"
+            },
+            "name": {
+                "modrinth": "Bobby"
+            },
+            "id": {
+                "modrinth": "M08ruV16"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "bobby-5.2.9+mc1.21.6.jar",
+                    "mc_versions": [
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/M08ruV16/versions/b4wSwWuv/bobby-5.2.9+mc1.21.6.jar",
+                    "id": "b4wSwWuv",
+                    "parent_id": "M08ruV16",
+                    "hashes": {
+                        "sha512": "f06663cb6f943aa9051e99598ce023bcc7a73f3eecacffd85227efe489c88cd0cae69c8d76fc2a72c550f2ac76c2cda6bc5f189b292624c8b61b756770cf1035",
+                        "sha1": "06293c2cf352f5a69d5125028d29662669e3d7a1"
+                    },
+                    "required_dependencies": [],
+                    "size": 869832,
+                    "date_published": "2025-09-30T16:52:24.809923Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "AqdXw2JPqHMomF7v",
             "pakku_links": [
                 "aFeCXb9VpjK6tpF3"
