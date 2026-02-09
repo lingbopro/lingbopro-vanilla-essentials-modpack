@@ -207,7 +207,7 @@
     "dateFormatMinecraft": "MC time: (day {DAY}) {HOUR}:{MIN}:xx",
     "durationFormatType": "pretty",
     "durationFormatString": "HH:mm:ss.SSS",
-    "fontScale": 0.5,
+    "fontScale": 0.8,
     "hudStatusEffectsShift": {
       "enabled": true,
       "hotkey": {
@@ -513,7 +513,7 @@
     "§6debugBeeDataEnabled§r": false,
     "§6debugBrainEnabled§r": false,
     "§6debugBreezeJumpEnabled§r": false,
-    "debugChunkBorder": false,
+    "debugChunkBorder": true,
     "debugChunkInfo": false,
     "§6debugChunkLoading§r": false,
     "debugChunkOcclusion": false,
