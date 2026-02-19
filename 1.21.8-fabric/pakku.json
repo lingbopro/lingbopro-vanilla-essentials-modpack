@@ -1,5 +1,5 @@
 {
   "name": "lingbopro Vanilla Essentials",
-  "version": "0.1.0-pre2+fabric1.21.8",
+  "version": "0.1.0-pre3+fabric1.21.8",
   "overrides": ["config"]
 }
