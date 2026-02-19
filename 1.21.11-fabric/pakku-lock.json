@@ -2077,6 +2077,52 @@
             ]
         },
         {
+            "pakku_id": "futloXmwpPQP8Iy8",
+            "pakku_links": [
+                "I5zA70YGdjL2Or9J",
+                "VmG58QClYVCa8kCa",
+                "12T6YWAaNuoq4QyM"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "inventory-profiles-next"
+            },
+            "name": {
+                "modrinth": "Inventory Profiles Next"
+            },
+            "id": {
+                "modrinth": "O7RBXm3n"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "InventoryProfilesNext-fabric-1.21.11-2.2.3.jar",
+                    "mc_versions": [
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/O7RBXm3n/versions/hUyBZiaa/InventoryProfilesNext-fabric-1.21.11-2.2.3.jar",
+                    "id": "hUyBZiaa",
+                    "parent_id": "O7RBXm3n",
+                    "hashes": {
+                        "sha512": "ea6eb09d27c1e53a56e1220e03f5364fa833c8cf6fc2fdd0c0352dab07fab66c9476c0aa7e70859e9bc6c785afa1cbb633a8820d671bb193de3286c5ffa9b891",
+                        "sha1": "7835dac2b68a976a339856146f934e76f3e0e4b4"
+                    },
+                    "required_dependencies": [
+                        "onSQdWhM",
+                        "P7dR8mSH",
+                        "Ha28R6CL"
+                    ],
+                    "size": 1318456,
+                    "date_published": "2025-12-30T10:54:32.580948Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DLrrqLwIr3k8ejQO",
             "type": "MOD",
             "side": "CLIENT",
